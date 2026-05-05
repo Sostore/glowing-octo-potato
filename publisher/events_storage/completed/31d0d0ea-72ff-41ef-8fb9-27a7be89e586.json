@@ -1,0 +1,19 @@
+{
+  "id": "31d0d0ea-72ff-41ef-8fb9-27a7be89e586",
+  "topic": "firesec.heartbeat",
+  "payload": {
+    "raw_xml": "<Heartbeat><Status>Alive</Status></Heartbeat>",
+    "root_element": "Heartbeat",
+    "detected_topic": "firesec.heartbeat",
+    "attributes": {}
+  },
+  "state": "completed",
+  "created_at": 1777996665.0132158,
+  "updated_at": 1777996665.0136385,
+  "attempts": 0,
+  "error_message": null,
+  "metadata": {
+    "source": "firesec-sink",
+    "content_type": "application/xml"
+  }
+}
