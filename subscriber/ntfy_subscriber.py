@@ -37,7 +37,7 @@ class NtfySubscriber:
     def __init__(
         self,
         server: str = "https://ntfy.sh",
-        topic: str = "pubsub-events",
+        topic: str = "test-topic-x89012as",
         priority: int = 3,
         tags: Optional[List[str]] = None,
         timeout: float = 10.0
